@@ -22,7 +22,7 @@ I am **Andre Lapensée** (also operating as **X-Sovereign**). I engineer high-th
 
 My work bridges **mathematical finance** (Merton Jump-Diffusion, GARCH volatility clustering, multi-factor scoring), **agentic artificial intelligence** (heterogeneous swarms, autonomous self-healing execution, dynamic consensus), and **cloud-native full-stack systems** (FastAPI, Next.js 14, Supabase, Tailwind).
 
-> *"We don't predict the future by guessing; we simulate 10,000 stochastic trajectories and architect the consensus."*
+> *"We do not predict the future by guessing; we simulate 10,000 stochastic trajectories and architect the consensus."*
 
 ---
 
