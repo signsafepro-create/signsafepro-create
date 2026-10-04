@@ -18,7 +18,7 @@
 
 ## 🌌 Executive Overview
 
-I am **Andre Lapensée** (also operating as **X-Sovereign**). I engineer high-throughput financial prediction engines, autonomous multi-agent intelligence swarms, and sovereign computing infrastructure. 
+I am **Andre Lapensée** (operating as **X-Sovereign**). I engineer high-throughput financial prediction engines, autonomous multi-agent intelligence swarms, and sovereign computing infrastructure. 
 
 My work bridges **mathematical finance** (Merton Jump-Diffusion, GARCH volatility clustering, multi-factor scoring), **agentic artificial intelligence** (heterogeneous swarms, autonomous self-healing execution, dynamic consensus), and **cloud-native full-stack systems** (FastAPI, Next.js 14, Supabase, Tailwind).
 
@@ -26,7 +26,7 @@ My work bridges **mathematical finance** (Merton Jump-Diffusion, GARCH volatilit
 
 ---
 
-## 🏛️ Flagship Sovereign Systems
+## 🏛 Flagship Sovereign Systems
 
 | System | Focus Area | Architecture & Stack | Status |
 | :--- | :--- | :--- | :---: |
@@ -34,7 +34,7 @@ My work bridges **mathematical finance** (Merton Jump-Diffusion, GARCH volatilit
 | **⚡ Lil Jr 2.0 Autonomous Swarm** | Autonomous Multi-Agent Coordination OS | **Python, AsyncIO, PyTorch, Multi-LLM Router**<br>103-agent autonomous execution swarm, recursive error recovery, localized vector memory | `ACTIVE` |
 | **📈 Sovereign Quant Pipeline** | Algorithmic Forecasting & Volatility Modeling | **Python, Scikit-learn, SciPy, GARCH, Bayesian Ridge**<br>Walk-forward temporal cross-validation, synthetic regime generator, zero lookahead bias | `BENCHMARKED` |
 | **🧊 AethelGrid Compute** | Physical Thermodynamic GPU Data Center | **Thermodynamic Loop, Hardware Topology**<br>Captures 88% GPU heat dissipation into 6.2 MW clean energy, 1.167 PUE design | `BLUEPRINT` |
-| **🛡️ Sovereign Diligence Vault** | Institutional Diligence & Forensic Governance | **CRA SR&ED Ready, Cryptographic Audit Logs**<br>Complete corporate data room, legal contracts, forensic milestone verification | `ENTERPRISE` |
+| **🛡 Sovereign Diligence Vault** | Institutional Diligence & Forensic Governance | **CRA SR&ED Ready, Cryptographic Audit Logs**<br>Complete corporate data room, legal contracts, forensic milestone verification | `ENTERPRISE` |
 
 ---
 
@@ -49,7 +49,7 @@ flowchart LR
         A4["Agent Telemetry & Logs"]
     end
 
-    subgraph ENGINE ["⚙️ Sovereign Core Compute"]
+    subgraph ENGINE ["⚙ Sovereign Core Compute"]
         B1["Merton Jump-Diffusion<br/>Monte Carlo Engine (10k paths)"]
         B2["Multi-Factor ARR<br/>Scoring Algorithm"]
         B3["GARCH Volatility<br/>Clustering & Drift"]
@@ -90,7 +90,7 @@ flowchart LR
 
 ---
 
-## 🛠️ Weapons of Choice & Technical Arsenal
+## 🛠 Weapons of Choice & Technical Arsenal
 
 <div align="center">
 
@@ -118,7 +118,7 @@ flowchart LR
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 
-### ☁️ Infrastructure & Database
+### ☁ Infrastructure & Database
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
